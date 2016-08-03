@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Bug Report Template",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a simple bug report template to text areas.",
+    "description": "Description of the extension."
+  },
+
+  "contextMenuLabel": {
+    "message": "Insert bug report template",
+    "description": "Label of the context menu item."
+  }
+}
