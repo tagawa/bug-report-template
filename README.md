@@ -1,10 +1,16 @@
 # Bug Report Template (Browser Extension)
 
-A browser extension to quickly add a simple bug report template to text areas.
+A browser extension to quickly add a simple bug report template to text areas. It saves time and makes bug reports consistent.
+
+## How to use:
+
+1. Install extension (see below)
+2. Right-click in an editable text area
+3. Click "Insert bug report template" &mdash; that's it!
 
 ## Downloads/Installation
 
-* Firefox: https://addons.mozilla.org/en-GB/firefox/addon/bug-report-template/
+* Firefox (48+): https://addons.mozilla.org/en-GB/firefox/addon/bug-report-template/
 * Vivaldi/Opera/Chrome: https://github.com/tagawa/bug-report-template/raw/master/builds/bug-report-template.crx
 
 ## Todo
