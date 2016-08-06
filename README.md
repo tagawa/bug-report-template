@@ -1,6 +1,7 @@
 # Bug Report Template (Browser Extension)
 
-A browser extension to quickly add a simple bug report template to text areas. It saves time and makes bug reports consistent.
+![Logo](https://raw.githubusercontent.com/tagawa/bug-report-template/master/source/icons/icon-16.png) A browser extension to add a simple bug report template to text areas.
+It saves time and makes bug reports consistent.
 
 ## How to use:
 
@@ -12,6 +13,19 @@ A browser extension to quickly add a simple bug report template to text areas. I
 
 * Firefox (48+): https://addons.mozilla.org/en-GB/firefox/addon/bug-report-template/
 * Vivaldi/Opera/Chrome: https://github.com/tagawa/bug-report-template/raw/master/builds/bug-report-template.crx
+
+## The template
+
+    ## Steps to reproduce:
+    1. 
+    2. 
+    3. 
+    
+    ## What should happen:
+    
+    ## What actually happens:
+    
+Told you it was simple 😊
 
 ## Todo
 
