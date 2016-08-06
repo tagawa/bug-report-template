@@ -5,6 +5,7 @@ A browser extension to quickly add a simple bug report template to text areas.
 ## Downloads/Installation
 
 * Firefox: https://addons.mozilla.org/en-GB/firefox/addon/bug-report-template/
+* Vivaldi/Opera/Chrome: https://github.com/tagawa/bug-report-template/raw/master/builds/bug-report-template.crx
 
 ## Todo
 
