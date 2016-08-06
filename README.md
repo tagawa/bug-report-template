@@ -2,6 +2,10 @@
 
 A browser extension to quickly add a simple bug report template to text areas.
 
+## Downloads/Installation
+
+* Firefox: https://addons.mozilla.org/en-GB/firefox/addon/bug-report-template/
+
 ## Todo
 
 * Don't display the context menu label on `input` elements.
